@@ -1,0 +1,4 @@
+baseURL = "https://bestonlineimage.vercel.app"
+languageCode = "en-us"
+title = "Online Image Editor"
+theme = "hugo-theme-minos"
